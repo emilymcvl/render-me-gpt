@@ -1,2 +1,2 @@
 # render-me-gpt
-JSON files for chatGPT to generate pretty and consistent 3D Icons and renderings
+A small collection of custom JSON templates that help GPT render **consistent, cute, 3D images**.  
